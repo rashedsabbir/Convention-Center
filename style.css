@@ -16,6 +16,8 @@ font-weight: 700;
     max-height: 500px;
     max-width: 100%;
 }
+
+/****badge*****/
 .rounded-pill {
     border-radius: 50rem!important;
 }
